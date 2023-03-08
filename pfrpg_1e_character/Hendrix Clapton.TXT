@@ -1,0 +1,441 @@
+Name:       Hendrix Clapton
+Race:       Gnome
+Player:     Stephan 
+Classes:    Bard4
+Hit Points: 38
+Experience: 9000 / 15000
+Alignment:  Neutral Good
+Vision:     Low-Light Vision
+Speed:      Walk 15 ft.
+Languages:  Common, Draconic, Gnome, Read Lips, Sylvan
+Stat    Score   Mod
+STR  10 (+0)
+DEX  15 (+2)
+CON  16 (+3)
+INT  12 (+1)
+WIS  9 (-1)
+CHA  20 (+5)
+-------------------------- Skills --------------------------
+Skill                   Total   Rnk     Stat    Msc
+Acrobatics  -1  0.0  2  -3
+Acrobatics (When Jumping)  -9  0.0  2  -11
+Appraise  1  0.0  1  0
+Bluff  11  3.0  5  3
+Climb  -3  0.0  0  -3
+Craft (Untrained)  1  0.0  1  0
+Diplomacy  12  4.0  5  3
+Disable Device  2  3.0  2  -3
+Disguise  9  1.0  5  3
+Escape Artist  -1  0.0  2  -3
+Fly  1  0.0  2  -1
+Heal  -1  0.0  -1  0
+Intimidate  5  0.0  5  0
+Linguistics(Read Lips)  6  2.0  1  3
+Perception  6  2.0  -1  5
+Perform (String Instruments)  12  4.0  5  3
+Perform (Untrained)  5  0.0  5  0
+Ride  -1  0.0  2  -3
+Sense Motive  -1  0.0  -1  0
+Sleight of Hand  5  3.0  2  0
+Stealth  9  3.0  2  4
+Survival  -1  0.0  -1  0
+Swim  2  0.0  0  2
+Use Magic Device  12  4.0  5  3
+-------------------------- Feats ---------------------------
+Arcane Strike
+  As a swift action, you can imbue your weapons with a fraction of your power. For 1 round, you gain a +1 damage bonus and your weapons are treated as magic for the purpose of overcoming damage reduction.
+  
+Dodge
+-------------------- Special Abilities ---------------------
+
+			<name>Artisan (Craft (Alchemy), Craft (Paintings))</name>
+			<description>You spent time working under artisans, or your parents were artisans who were particularly skilled at their trade. You gain a +2 trait bonus on a single Craft skill (your choice).</description>
+			<type>TRAIT.BASICTRAIT.SOCIALTRAIT</type>
+			<associated>Craft (Alchemy),Craft (Paintings)</associated>
+			<count>2</count>
+			<aspect></aspect>
+			<auto>F</auto>
+			<hidden>F</hidden>
+			<virtual>F</virtual>
+			<category>Special Ability</category>
+			<source>Paizo Publishing - Ultimate Campaign, p.59</source>
+		</special_quality>
+			<name>Bonus Bardic Performance Round (2x)</name>
+			<description>Add 1 to the bard's total number of bardic performance rounds per day.</description>
+			<type>SPECIALQUALITY.FAVOREDCLASSBONUS.FAVOREDCLASSBARD</type>
+			<associated>,</associated>
+			<count>2</count>
+			<aspect></aspect>
+			<auto>F</auto>
+			<hidden>F</hidden>
+			<virtual>F</virtual>
+			<category>Special Ability</category>
+			<source>Paizo Inc. - Advanced Race Guide, p.33</source>
+		</special_quality>
+			<name>Defensive Training (Ex)</name>
+			<description>Gnomes get a +4 dodge bonus to AC against monsters of the giant type.</description>
+			<type>RACIALTRAITS.SPECIALQUALITY.EXTRAORDINARY.GNOMERACIALTRAIT.GNOMERACIALDEFAULT.DEFENSIVE TRAINING</type>
+			<associated></associated>
+			<count>0</count>
+			<aspect>CombatBonus: +4 dodge bonus to AC against monsters of the giant type.</aspect>
+			<auto>F</auto>
+			<hidden>F</hidden>
+			<virtual>F</virtual>
+			<category>Special Ability</category>
+			<source>Paizo Inc. - Core Rulebook, p.23</source>
+		</special_quality>
+			<name>Gnome Magic (Sp)</name>
+			<description>Gnomes add +1 to the DC of any saving throws against illusion spells that they cast. Gnomes with a Charisma of 11 or higher also gain spell-like abilities.</description>
+			<type>RACIALTRAITS.SPECIALQUALITY.SPELLLIKE.GNOMERACIALTRAIT.GNOMERACIALDEFAULT.GNOME MAGIC</type>
+			<associated></associated>
+			<count>0</count>
+			<aspect></aspect>
+			<auto>F</auto>
+			<hidden>F</hidden>
+			<virtual>F</virtual>
+			<category>Special Ability</category>
+			<source>Paizo Inc. - Core Rulebook, p.23</source>
+		</special_quality>
+			<name>Hatred (Ex)</name>
+			<description>Gnomes receive a +1 bonus on attack rolls against humanoid creatures of the reptilian and goblinoid subtypes due to special training against these hated foes.</description>
+			<type>RACIALTRAITS.SPECIALQUALITY.EXTRAORDINARY.GNOMERACIALTRAIT.GNOMERACIALDEFAULT.HATRED</type>
+			<associated></associated>
+			<count>0</count>
+			<aspect>CombatBonus: +1 bonus on attack rolls against humanoid creatures of the reptilian and goblinoid subtypes due to special training against these hated foes.</aspect>
+			<auto>F</auto>
+			<hidden>F</hidden>
+			<virtual>F</virtual>
+			<category>Special Ability</category>
+			<source>Paizo Inc. - Core Rulebook, p.23</source>
+		</special_quality>
+			<name>Illusion Resistance (Ex)</name>
+			<description>Gnomes get a +2 racial saving throw bonus against illusion spells or effects.</description>
+			<type>RACIALTRAITS.SPECIALQUALITY.EXTRAORDINARY.GNOMERACIALTRAIT.GNOMERACIALDEFAULT.ILLUSION RESISTANC</type>
+			<associated></associated>
+			<count>0</count>
+			<aspect>SaveBonus: +2 vs. illusion spells or effects</aspect>
+			<auto>F</auto>
+			<hidden>F</hidden>
+			<virtual>F</virtual>
+			<category>Special Ability</category>
+			<source>Paizo Inc. - Core Rulebook, p.23</source>
+		</special_quality>
+			<name>Keen Senses (Ex)</name>
+			<description>Gnomes receive a +2 bonus on Perception skill checks.</description>
+			<type>RACIALTRAITS.SPECIALQUALITY.EXTRAORDINARY.GNOMERACIALTRAIT.GNOMERACIALDEFAULT.KEEN SENSES.KEENSENSES</type>
+			<associated></associated>
+			<count>0</count>
+			<aspect></aspect>
+			<auto>F</auto>
+			<hidden>F</hidden>
+			<virtual>F</virtual>
+			<category>Special Ability</category>
+			<source>Paizo Inc. - Core Rulebook, p.23</source>
+		</special_quality>
+			<name>Language</name>
+			<description>Gnomes begin play speaking Common, Gnome, and Sylvan. Gnomes with high Intelligence scores can choose from the following: Draconic, Dwarven, Elven, Giant, Goblin, and Orc.</description>
+			<type>RACIALTRAITS.GNOMERACIALTRAIT.GNOMERACIALDEFAULT</type>
+			<associated></associated>
+			<count>0</count>
+			<aspect></aspect>
+			<auto>F</auto>
+			<hidden>F</hidden>
+			<virtual>F</virtual>
+			<category>Special Ability</category>
+			<source>Paizo Inc. - Core Rulebook</source>
+		</special_quality>
+			<name>Low-Light Vision (Ex)</name>
+			<description>You can see x2 as far as humans in low illumination. Characters with low-light vision have eyes that are so sensitive to light that they can see twice as far as normal in dim light. Low-Light Vision is color vision. A spellcaster with low-light vision can read a scroll as long as even the tiniest candle flame is next to her as a source of light. Characters with low-light vision can see outdoors on a moonlit night as well as they can during the day.</description>
+			<type>SPECIALQUALITY.EXTRAORDINARY.VISION</type>
+			<associated></associated>
+			<count>0</count>
+			<aspect>Vision: Low-Light Vision</aspect>
+			<auto>F</auto>
+			<hidden>F</hidden>
+			<virtual>F</virtual>
+			<category>Special Ability</category>
+			<source>Paizo Inc. - Bestiary</source>
+		</special_quality>
+			<name>No Racial Subtype</name>
+			<description>You have chosen no racial subtype.</description>
+			<type>UNIVERSAL SUBTYPE</type>
+			<associated></associated>
+			<count>0</count>
+			<aspect></aspect>
+			<auto>F</auto>
+			<hidden>F</hidden>
+			<virtual>F</virtual>
+			<category>Special Ability</category>
+			<source>Paizo Inc. - Advanced Race Guide</source>
+		</special_quality>
+			<name>Obsessive (Ex)</name>
+			<description>Gnomes receive a +2 racial bonus on a Craft or Profession skill of their choice.</description>
+			<type>RACIALTRAITS.SPECIALQUALITY.EXTRAORDINARY.GNOMERACIALTRAIT.GNOMERACIALDEFAULT.OBSESSIVE</type>
+			<associated></associated>
+			<count>0</count>
+			<aspect></aspect>
+			<auto>F</auto>
+			<hidden>F</hidden>
+			<virtual>F</virtual>
+			<category>Special Ability</category>
+			<source>Paizo Inc. - Core Rulebook, p.23</source>
+		</special_quality>
+			<name>Weapon Familiarity (Ex)</name>
+			<description>Gnomes treat any weapon with the word "gnome" in its name as a martial weapon.</description>
+			<type>RACIALTRAITS.SPECIALQUALITY.EXTRAORDINARY.GNOMERACIALTRAIT.GNOMERACIALDEFAULT.WEAPON FAMILIARITY</type>
+			<associated></associated>
+			<count>0</count>
+			<aspect></aspect>
+			<auto>F</auto>
+			<hidden>F</hidden>
+			<virtual>F</virtual>
+			<category>Special Ability</category>
+			<source>Paizo Inc. - Core Rulebook, p.23</source>
+		</special_quality>
+	</special_qualities>
+------------------------ Templates -------------------------
+
+-------------------------- Combat --------------------------
+    Total / Touch / Flat Footed
+AC: 18 / 15 / 16
+Initiative:   +2
+BAB:          +3
+Melee tohit:  +4
+Ranged tohit: +6
+Fortitude:    +4
+Reflex:       +6
+Will:         +3
+Unarmed attack:
+to hit:       +4
+damage:       1d2
+critical:     20/x2
+Masterwork Longsword (Small):
+to hit:       +5
+damage:       1d6
+critical:     19-20/x2
+Shortbow (Small):
+to hit:       +6
+damage:       1d4
+critical:     20/x3
+range:        60 ft.
+--------------------- Special Abilities --------------------
+ 
+------------------------- Equipment ------------------------
+Name                                            QTY	LBS
+Masterwork Longsword (Small)  1	2lbs
+Ring of Swimming  1	0lbs
+Studded Leather (Small)  1	10lbs
+Buckler (Small)  1	2lbs	Special: applies a -1 to hit to Two-Handed Weapon, or Off-hand held weapon
+Flint and Steel  1	0lbs
+Musical Instrument (Lute) (Small)  1	0lbs
+Arrow (Small)  15	1lbs
+Backpack (Small) (0.5 lbs.)
+Vial (0 lbs.)
+Bag of Holding (Type I) (15 lbs.)
+Shortbow (Small) (1 lbs.)
+Total weight carried: 36.88 lbs.
+Current load:         Medium
+Encumbrance
+Light:  25   
+Medium: 50   
+Heavy:  75
+--------------------------- Magic --------------------------
+
+Innate Spells
+Dancing Lights (Evocation) - 1 per day
+Saves: None
+DC: 
+Casting: 1 standard action
+Duration: 1 minute [D]
+Range: Medium (140 ft.)
+Components: V, S
+SR: No
+Effect: You create up to four lights that resemble lanterns or torches.
+Target:	Up to four lights, all within a 10-ft.-radius area
+Ghost Sound (Illusion) - 1 per day
+Saves: Will disbelief
+DC: 15
+Casting: 1 standard action
+Duration: 4 rounds [D]
+Range: Close (35 ft.)
+Components: V, S, M
+SR: No
+Effect: Ghost sound allows you to create a volume of sound that rises, recedes, approaches, or remains at a fixed place.
+Target:	Illusory sounds
+Prestidigitation (Universal) - 1 per day
+Saves: See text
+DC: 15
+Casting: 1 standard action
+Duration: 1 hour
+Range: 10 ft.
+Components: V, S
+SR: No
+Effect: Prestidigitations are minor tricks that novice spellcasters use for practice.
+Target:	See text
+Speak with Animals (Divination) - 1 per day
+Saves: 
+DC: 
+Casting: 1 standard action
+Duration: 4 minutes
+Range: Personal
+Components: V, S
+SR: 
+Effect: You can ask questions of and receive answers from animals, but the spell doesn't make them any more friendly than normal.
+Target:	You
+ () -  per day
+Saves: 
+DC: 
+Casting: 
+Duration: 
+Range: 
+Components: 
+SR: 
+Effect: 
+Target:	
+ () -  per day
+Saves: 
+DC: 
+Casting: 
+Duration: 
+Range: 
+Components: 
+SR: 
+Effect: 
+Target:	
+ () -  per day
+Saves: 
+DC: 
+Casting: 
+Duration: 
+Range: 
+Components: 
+SR: 
+Effect: 
+Target:	
+ () -  per day
+Saves: 
+DC: 
+Casting: 
+Duration: 
+Range: 
+Components: 
+SR: 
+Effect: 
+Target:	
+ () -  per day
+Saves: 
+DC: 
+Casting: 
+Duration: 
+Range: 
+Components: 
+SR: 
+Effect: 
+Target:	
+ () -  per day
+Saves: 
+DC: 
+Casting: 
+Duration: 
+Range: 
+Components: 
+SR: 
+Effect: 
+Target:	
+
+
+Bard Spells
+
+SPELLBOOKNAME0
+ 
+Level 0
+Detect Magic (Divination)
+Saves: None	DC: 	Casting: 1 standard action
+Duration: Concentration, up to 4 minutes [D]	Range: 60 ft.	Components: V, S
+SR: No	Effect: You detect magical auras.	Target: Cone-shaped emanation
+DESC: You detect magical auras.
+DESC 2:  You detect magical auras.
+Flare (Evocation)
+Saves: Fortitude negates	DC: 15	Casting: 1 standard action
+Duration: Instantaneous	Range: Close (35 ft.)	Components: V
+SR: Yes	Effect: This cantrip creates a burst of light.	Target: Burst of light
+DESC: This cantrip creates a burst of light.
+DESC 2:  This cantrip creates a burst of light.
+Light (Evocation)
+Saves: None	DC: 	Casting: 1 standard action
+Duration: 40 minutes	Range: Touch	Components: V, M/DF
+SR: No	Effect: This spell causes a touched object to glow like a torch.	Target: Object touched
+DESC: This spell causes a touched object to glow like a torch.
+DESC 2:  This spell causes a touched object to glow like a torch.
+Open/Close (Transmutation)
+Saves: Will negates (object)	DC: 15	Casting: 1 standard action
+Duration: Instantaneous	Range: Close (35 ft.)	Components: V, S, F
+SR: Yes (object)	Effect: You can open or close [your choice] a door, chest, box, window, bag, pouch, bottle, barrel, or other container.	Target: Object weighing up to 30 lbs. or portal that can be opened or closed
+DESC: You can open or close (your choice) a door, chest, box, window, bag, pouch, bottle, barrel, or other container.
+DESC 2:  You can open or close [your choice] a door, chest, box, window, bag, pouch, bottle, barrel, or other container.
+Read Magic (Divination)
+Saves: 	DC: 	Casting: 1 standard action
+Duration: 40 minutes	Range: Personal	Components: V, S, F
+SR: 	Effect: You can decipher magical inscriptions on objects--books, scrolls, weapons, and the like--that would otherwise be unintelligible.	Target: You
+DESC: You can decipher magical inscriptions on objects--books, scrolls, weapons, and the like--that would otherwise be unintelligible.
+DESC 2:  You can decipher magical inscriptions on objects--books, scrolls, weapons, and the like--that would otherwise be unintelligible.
+Summon Instrument (Conjuration)
+Saves: None	DC: 	Casting: 1 round
+Duration: 4 minutes [D]	Range: 0 ft.	Components: V, S
+SR: No	Effect: This spell summons one handheld musical instrument of your choice.	Target: One summoned handheld musical instrument
+DESC: This spell summons one handheld musical instrument of your choice.
+DESC 2:  This spell summons one handheld musical instrument of your choice.
+ 
+ 
+Level 1
+Chord of Shards (Evocation)
+Saves: Reflex negates	DC: 16	Casting: 1 standard action
+Duration: Instantaneous	Range: 15 ft.	Components: V, S
+SR: No	Effect: Performance deals 2d6 piercing damage.	Target: Cone-shaped burst
+DESC: Performance deals 2d6 piercing damage.
+DESC 2:  Performance deals 2d6 piercing damage.
+Cure Light Wounds (Conjuration)
+Saves: Will half (harmless); see text	DC: 16	Casting: 1 standard action
+Duration: Instantaneous	Range: Touch	Components: V, S
+SR: Yes (harmless); see text	Effect: When laying your hand upon a living creature, you channel positive energy that cures 1d8+4 points of damage.	Target: Creature touched
+DESC: When laying your hand upon a living creature, you channel positive energy that cures 1d8+(min(5,CASTERLEVEL)) points of damage.
+DESC 2:  When laying your hand upon a living creature, you channel positive energy that cures 1d8+4 points of damage.
+Grease (Conjuration, EarthSchool)
+Saves: See text	DC: 16	Casting: 1 standard action
+Duration: 4 minutes [D]	Range: Close (35 ft.)	Components: V, S, M
+SR: No	Effect: A grease spell covers a solid surface with a layer of slippery grease.	Target: One object or 10-ft. square
+DESC: A grease spell covers a solid surface with a layer of slippery grease.
+DESC 2:  A grease spell covers a solid surface with a layer of slippery grease.
+Summon Monster I (Conjuration)
+Saves: None	DC: 	Casting: 1 round
+Duration: 4 rounds [D]	Range: Close (35 ft.)	Components: V, S, F/DF
+SR: No	Effect: This spell summons an extraplanar creature.	Target: One summoned creature
+DESC: This spell summons an extraplanar creature.
+DESC 2:  This spell summons an extraplanar creature.
+ 
+  
+  
+  
+  
+  
+ 
+               
+               
+
+------------------------ Description -----------------------
+Height: 3' 3" Weight: 38 lbs. Gender: Male	
+Eyes:   blue Hair: purple,ponytail Skin: pale green
+Dominant Hand: Right Quirks: , 	
+Speech style:  Quotable: 
+Full Description
+
+Background
+
+Campaign Logs
+
+=========================================================
+
+Adventure #0:    Date: 
+Party Members: 
+---------------------------------------------------------
+
